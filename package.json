@@ -1,0 +1,26 @@
+{
+  "name": "anc",
+  "version": "1.1.1",
+  "description": "Names",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shavkat770/E-commerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shavkat770/E-commerce/issues"
+  },
+  "homepage": "https://github.com/Shavkat770/E-commerce#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.1.0"
+  }
+}
